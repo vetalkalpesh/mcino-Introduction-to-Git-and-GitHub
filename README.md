@@ -15,3 +15,4 @@ Output
 
 _© 2022 XYZ, Inc._
 This repository demonstrates basic Git and GitHub workflows.
+This project demonstrates branching and pull request workflows in GitHub.
